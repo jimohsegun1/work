@@ -1,0 +1,9 @@
+.customer-map {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .leaflet-container {
+    background: #f8f9fa;
+  }
+  
